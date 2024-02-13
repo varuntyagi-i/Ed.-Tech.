@@ -19,13 +19,13 @@ Primary Cluster charecteristics includes:
 1. Exp bin Medium (5 years to 10 years)
 1. Last updated CTC was more than 3 years back
 
-![](report/Aspose.Words.a7050612-8f34-4399-98f7-f415213233f9.001.png)
+![](report/img001.png)
 
 3. Is it always true that with an increase in years of experience, the CTC increases? Provide a case where this isn't true ?
 
    Yes, not CTC but the mean of CTC in general increase.
 
-![](report/Aspose.Words.a7050612-8f34-4399-98f7-f415213233f9.002.jpeg)
+![](report/img002.jpeg)
 
 4. Name a job position that is commonly considered entry-level but has a few learners with unusually high CTCs in the dataset.
 
@@ -37,7 +37,7 @@ Primary Cluster charecteristics includes:
 
 The meadian seems to be 9.5 lakhs and mean seems to be 22 lakhs across all the learners but mean is not the right metric here we believe.
 
-![](report/Aspose.Words.a7050612-8f34-4399-98f7-f415213233f9.004.png)
+![](report/img004.png)
 
 6. For a given company, how does the average CTC of a Data Scientist compare with other roles?
 
@@ -51,13 +51,13 @@ It seems in comparison to most of the other roles the average CTC is higher in t
 
 It seems 8 clusters looks good, but 20 also seems to be a good number for decising the number of clusters to go with.
 
-![](report/Aspose.Words.a7050612-8f34-4399-98f7-f415213233f9.005.jpeg)
+![](report/img005.jpeg)
 
 2. Do the clusters formed align or differ significantly from the manual clustering efforts? If so, in what way?
 
    On 8-D data can’t say much but the WCSS values and BCSS values seems promising and clusters seems in good shape.
 
-![](report/Aspose.Words.a7050612-8f34-4399-98f7-f415213233f9.006.jpeg)
+![](report/img006.jpeg)
 
 9\. From the Hierarchical Clustering results:
 
@@ -65,16 +65,16 @@ It seems 8 clusters looks good, but 20 also seems to be a good number for decisi
 
    Yes, there is clear hierarchical/pattern observed while performing hierarchical clustering.
 
-![](report/Aspose.Words.a7050612-8f34-4399-98f7-f415213233f9.007.jpeg)
+![](report/img007.jpeg)
 
 2. How does the dendrogram representation correlate with the 'Years of Experience' feature?
 
 From the attached visualization, different clusters seems to represent different segment of data clearly:
 
-![](report/Aspose.Words.a7050612-8f34-4399-98f7-f415213233f9.008.png)
+![](report/img008.png)
 
 
 
 <END>
 
-[ref1]: report/Aspose.Words.a7050612-8f34-4399-98f7-f415213233f9.003.jpeg
+[ref1]: report/img003.jpeg
